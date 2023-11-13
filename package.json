@@ -1,0 +1,23 @@
+{
+  "name": "osdev-kr-bot",
+  "version": "0.0.1",
+  "description": "Operating System Development Korea Official BOT",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^8.53.0"
+  },
+  "scripts": {
+    "test": "node --watch index.js"
+  },
+  "keywords": [
+    "discordBOT"
+  ],
+  "homepage": "https://github.com/KR-OSDEV/officialBOT",
+  "repository": "github:KR-OSDEV/officialBOT",
+  "author": "Dohan Kwon <me@dohan.in> (https://dohan.in)",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  }
+}
